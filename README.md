@@ -1,4 +1,4 @@
-:wq:i# Angular2 and Webpack quick project starter
+# Angular2 and Webpack quick project starter
 
 ## Description
 
