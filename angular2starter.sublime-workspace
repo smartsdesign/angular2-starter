@@ -231,15 +231,7 @@
 			"file": "webpack.config.js",
 			"settings":
 			{
-				"buffer_size": 1471,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/app/app.component.ts",
-			"settings":
-			{
-				"buffer_size": 341,
+				"buffer_size": 2209,
 				"line_ending": "Unix"
 			}
 		},
@@ -248,6 +240,87 @@
 			"settings":
 			{
 				"buffer_size": 245,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app.module.ts",
+			"settings":
+			{
+				"buffer_size": 396,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "typings.json",
+			"settings":
+			{
+				"buffer_size": 264,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tsconfig.json",
+			"settings":
+			{
+				"buffer_size": 230,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1622,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/polyfill.ts",
+			"settings":
+			{
+				"buffer_size": 29,
+				"line_ending": "Unix",
+				"name": "import \"reflect-metadata\";"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 38,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/app.component.ts",
+			"settings":
+			{
+				"buffer_size": 196,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/app.component.scss",
+			"settings":
+			{
+				"buffer_size": 23,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/app.component.html",
+			"settings":
+			{
+				"buffer_size": 66,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 488,
 				"line_ending": "Unix"
 			}
 		}
@@ -259,7 +332,7 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 384.0,
+		"height": 400.0,
 		"last_filter": "",
 		"selected_items":
 		[
@@ -340,7 +413,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 475.0
+		"width": 493.0
 	},
 	"console":
 	{
@@ -361,14 +434,15 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/dist",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/node_modules/jquery/src",
 		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/src",
 		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/src/app",
-		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/src/css",
 		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/typings"
 	],
 	"file_history":
 	[
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/src/app/index.html",
 		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/webpack.config.js",
 		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/src/app/app.component.html",
 		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/package.json",
@@ -495,12 +569,11 @@
 		"/Users/smuhangi/Public/esp-homepage/js/homepage-app.js",
 		"/Users/smuhangi/Public/esp-homepage/js/directives/shared/de-footer.js",
 		"/Users/smuhangi/Public/esp-homepage/hbs/homepage/esp-homepage.hbs",
-		"/Users/smuhangi/Public/esp-homepage/js/directives/shared/header.js",
-		"/Users/smuhangi/Public/esp-homepage/js/directives/shared/card.js"
+		"/Users/smuhangi/Public/esp-homepage/js/directives/shared/header.js"
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 44.0
 	},
 	"find_in_files":
 	{
@@ -567,7 +640,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -576,15 +649,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1471,
+						"buffer_size": 2209,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								194,
-								194
+								2030,
+								2030
 							]
 						],
 						"settings":
@@ -605,27 +678,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 568.0,
+						"translation.y": 1174.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "src/app/app.component.ts",
+					"file": "src/main.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 341,
+						"buffer_size": 245,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								303,
-								303
+								178,
+								178
 							]
 						],
 						"settings":
@@ -640,7 +713,226 @@
 								"enabled": false,
 								"last_updated": 1473973394.75
 							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/Sunrise (SL).tmTheme",
 							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app.module.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								308,
+								308
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".ts",
+								"current_syntax": "TypeScript/TypeScript",
+								"enabled": false,
+								"last_updated": 1473973394.75
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/Sunrise (SL).tmTheme",
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "typings.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".json",
+								"current_syntax": "JavaScript/JSON",
+								"enabled": false,
+								"last_updated": 1473973394.75
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/Sunrise (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "tsconfig.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								228,
+								228
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".json",
+								"current_syntax": "JavaScript/JSON",
+								"enabled": false,
+								"last_updated": 1473973394.75
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/Sunrise (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								550,
+								550
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".json",
+								"current_syntax": "Sunrise Theme/Langs/npm JSON",
+								"enabled": false,
+								"last_updated": 1473973394.75
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/Sunrise (SL).tmTheme",
+							"syntax": "Packages/Sunrise Theme/Langs/npm JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/polyfill.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import \"reflect-metadata\";",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".ts",
+								"current_syntax": "TypeScript/TypeScript",
+								"enabled": false,
+								"last_updated": 1473973394.75
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/Sunrise (SL).tmTheme",
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							},
 							"use_tab_stops": false
 						},
 						"translation.x": 0.0,
@@ -651,12 +943,12 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "src/main.ts",
+					"buffer": 7,
+					"file": ".gitignore",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 245,
+						"buffer_size": 38,
 						"regions":
 						{
 						},
@@ -674,13 +966,244 @@
 							],
 							"color_helper.scan":
 							{
+								"current_ext": "",
+								"current_syntax": "Sunrise Theme/Langs/Git",
+								"enabled": false,
+								"last_updated": 1473973394.75
+							},
+							"syntax": "Packages/Sunrise Theme/Langs/Git.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/app/app.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
 								"current_ext": ".ts",
 								"current_syntax": "TypeScript/TypeScript",
 								"enabled": false,
 								"last_updated": 1473973394.75
 							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/Sunrise (SL).tmTheme",
 							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
 							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/app/app.component.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hsl",
+									"hsla",
+									"rgb",
+									"hex_compressed",
+									"hex",
+									"rgba",
+									"webcolors"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".scss",
+								"current_syntax": "Sunrise Theme/Langs/SCSS",
+								"enabled": true,
+								"last_updated": 1473973394.75,
+								"scan_completion_scopes":
+								[
+									"source.scss -comment -string",
+									"source.sass -comment -string"
+								],
+								"scan_scopes":
+								[
+									"meta.property-list.css.sass -comment -string",
+									"constant.other.rgb-value.sass -comment -string",
+									"constant.other.color.rgb-value.scss -comment -string",
+									"constant.other.color.rgb-value.scss",
+									"support.constant.color.w3c-standard-color-name.scss",
+									"meta.property-value.scss",
+									"sass-script-maps -variable.other -comment -string"
+								],
+								"use_hex_argb": false
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/Sunrise (SL).tmTheme",
+							"syntax": "Packages/Sunrise Theme/Langs/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/app/app.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hsl",
+									"hsla",
+									"rgb",
+									"hex_compressed",
+									"hex",
+									"rgba",
+									"webcolors"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".html",
+								"current_syntax": "HTML/HTML",
+								"enabled": true,
+								"last_updated": 1473973394.75,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.property-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/Sunrise (SL).tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 488,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								215
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hsl",
+									"hsla",
+									"rgb",
+									"hex_compressed",
+									"hex",
+									"rgba",
+									"webcolors"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".html",
+								"current_syntax": "HTML/HTML",
+								"enabled": true,
+								"last_updated": 1473973394.75,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.property-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/Sunrise (SL).tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -751,6 +1274,10 @@
 			[
 				"web",
 				"webpack.config.js"
+			],
+			[
+				"tscon",
+				"tsconfig.json"
 			],
 			[
 				"codej",
