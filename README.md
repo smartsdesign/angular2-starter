@@ -4,7 +4,7 @@
 
 ```sh
 * A quick starter project for Angular2 and Webpack
-* Materialize backed in
+* Materialize baked in
 ```
 
 ## Usage
