@@ -1,0 +1,837 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mo",
+				"node_modules"
+			],
+			[
+				"cs",
+				"css-loader"
+			],
+			[
+				"mud",
+				"node_modules"
+			],
+			[
+				"pla",
+				"platformBrowserDynamic	alias"
+			],
+			[
+				"Vi",
+				"ViewEncapsulation	alias"
+			],
+			[
+				"typ",
+				"typings"
+			],
+			[
+				"boo",
+				"bootstrap	alias"
+			],
+			[
+				"temp",
+				"templateUrl	property"
+			],
+			[
+				"product",
+				"productId	property"
+			],
+			[
+				"ROUTE",
+				"ROUTER_DIRECTIVES	const"
+			],
+			[
+				"RO",
+				"ROUTER_PROVIDERS	alias"
+			],
+			[
+				"direct",
+				"directives	property"
+			],
+			[
+				"const",
+				"constructor	keyword"
+			],
+			[
+				"rating",
+				"ratingClicked	property"
+			],
+			[
+				"Even",
+				"EventEmitter	alias"
+			],
+			[
+				"dire",
+				"directives	property"
+			],
+			[
+				"style",
+				"styleUrls	property"
+			],
+			[
+				"cl",
+				"class	class …"
+			],
+			[
+				"nu",
+				"number	keyword"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"font",
+				"fontWeight"
+			],
+			[
+				"fonf",
+				"fontFile"
+			],
+			[
+				"hov",
+				"hoverColor"
+			],
+			[
+				"margin",
+				"marginLeft"
+			],
+			[
+				"back",
+				"backgroundSize"
+			],
+			[
+				"inver",
+				"invertChkBox"
+			],
+			[
+				"inv",
+				"invertChkBox"
+			],
+			[
+				"chc",
+				"checkbox"
+			],
+			[
+				"hi",
+				"hiddenChkBox"
+			],
+			[
+				"appen",
+				"appendTo"
+			],
+			[
+				"inp",
+				"inputVal"
+			],
+			[
+				"vl",
+				"value"
+			],
+			[
+				"decor",
+				"decodeURIComponent"
+			],
+			[
+				"pro",
+				"prodserver"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"c",
+				"class	class …"
+			],
+			[
+				"eng",
+				"egyptianDomain"
+			],
+			[
+				"ar",
+				"ar-sa"
+			],
+			[
+				"loca",
+				"locale"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"in",
+				"initial"
+			],
+			[
+				"sm",
+				"screen-sm-min"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"ionic",
+				"ionicPopup"
+			],
+			[
+				"pop",
+				"ionicPopup"
+			],
+			[
+				"io",
+				"ionicPopup"
+			],
+			[
+				"my",
+				"MyTasks"
+			],
+			[
+				"ioni",
+				"ionicAnalytics"
+			],
+			[
+				"ks",
+				"ks2"
+			],
+			[
+				"hom",
+				"homepage"
+			],
+			[
+				"ke",
+				"keystageScripts"
+			],
+			[
+				"Ke",
+				"KeystageApp"
+			],
+			[
+				"home",
+				"homepageScripts"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 1471,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/app.component.ts",
+			"settings":
+			{
+				"buffer_size": 341,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main.ts",
+			"settings":
+			{
+				"buffer_size": 245,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 384.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"j",
+				"Format: Javascript"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"create pane",
+				"Origami: Create and Focus Pane Below"
+			],
+			[
+				"typesc qui",
+				"TypeScript: Quick Info Documentation"
+			],
+			[
+				"type qu",
+				"TypeScript: Quick Info Documentation"
+			],
+			[
+				"set synt type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"set synt jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set synt ty",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"type",
+				"TypeScript: Format Document"
+			],
+			[
+				"find re",
+				"TypeScript: Find References"
+			],
+			[
+				"t",
+				"TypeScript: Show Error List"
+			],
+			[
+				"typ",
+				"TypeScript: Show Error List"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Toggle Annotations"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 475.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/dist",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/src",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/src/app",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/src/css",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/typings"
+	],
+	"file_history":
+	[
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/webpack.config.js",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/src/app/app.component.html",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/package.json",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/tsconfig.json",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/src/app/app.component.ts",
+		"/Users/smuhangi/Dropbox/Notes/codejam.note",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/src/app/app.component.scss",
+		"/Users/smuhangi/Dropbox/Notes/JoeGasewicz.note",
+		"/Users/smuhangi/Dropbox/Notes/Nathan.note",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/.gitignore",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/src/index.html",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/dist/index.html",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/src/bootstrap.css",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/webpack-production.config.js",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/dist/css/app/app.component.css",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/src/app.module.ts",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/.jshintrc",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/src/main.ts",
+		"/Users/smuhangi/Dropbox/angular-2/angular2-starter/src/main.scss",
+		"/Users/smuhangi/Dropbox/angular-2/photonote/app/main.scss",
+		"/Users/smuhangi/Dropbox/angular-2/photonote/index.html",
+		"/Users/smuhangi/Dropbox/angular-2/photonote/webpack.config.js",
+		"/Users/smuhangi/Dropbox/angular-2/photonote/tsconfig.json",
+		"/Users/smuhangi/Dropbox/angular-2/photonote/package.json",
+		"/Users/smuhangi/Dropbox/angular-2/photonote/app/app.component.ts",
+		"/Users/smuhangi/Dropbox/angular-2/photonote/app/app.component.html",
+		"/Users/smuhangi/Dropbox/angular-2/photonote/app/scss/style.scss",
+		"/Users/smuhangi/Dropbox/angular-2/photonote/dist/css/style.css",
+		"/Users/smuhangi/Dropbox/angular-2/photonote/photonote.sublime-project",
+		"/Users/smuhangi/Dropbox/angular-2/photonote/app/main.ts",
+		"/Users/smuhangi/Dropbox/angular-2/photonote/app/app.component.css",
+		"/Users/smuhangi/Dropbox/angular-2/photonote/typings.json",
+		"/Users/smuhangi/Dropbox/angular-2/photonote/readme.md",
+		"/Users/smuhangi/Desktop/media-queries-template.css",
+		"/Users/smuhangi/Dropbox/angular-2/APM/app/products/product.service.ts",
+		"/Users/smuhangi/Dropbox/angular-2/APM/app/products/product-detail.component.html",
+		"/Users/smuhangi/Dropbox/angular-2/APM/app/app.component.ts",
+		"/Users/smuhangi/Dropbox/angular-2/APM/app/products/product.ts",
+		"/Users/smuhangi/Dropbox/angular-2/APM/app/products/product-list.component.ts",
+		"/Users/smuhangi/Dropbox/angular-2/APM/app/products/product-list.component.html",
+		"/Users/smuhangi/Dropbox/angular-2/APM/app/shared/star.component.ts",
+		"/Users/smuhangi/Dropbox/angular-2/APM/app/app.component.html",
+		"/Users/smuhangi/Dropbox/angular-2/APM/app/products/product-detail.component.ts",
+		"/Users/smuhangi/Dropbox/angular-2/APM/index.html",
+		"/Users/smuhangi/Dropbox/angular-2/APM/app/shared/star.component.html",
+		"/Users/smuhangi/Dropbox/angular-2/APM/app/products/product-filter.pipe.ts",
+		"/Users/smuhangi/Dropbox/angular-2/APM/app/products/product-list.component.css",
+		"/Users/smuhangi/Dropbox/angular-2/APM/package.json",
+		"/Users/smuhangi/Public/deuk-promo/html/form-templates.html",
+		"/Users/smuhangi/Public/deuk-promo/js/de-form-templates.js",
+		"/Users/smuhangi/Library/Application Support/Sublime Text 3/Packages/TypeScript/TypeScript.sublime-settings",
+		"/Users/smuhangi/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/smuhangi/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/smuhangi/Dropbox/angular-2/APM/apm.sublime-project",
+		"/Users/smuhangi/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/smuhangi/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/smuhangi/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/smuhangi/Library/Application Support/Sublime Text 3/Packages/TypeScript/Preferences.sublime-settings",
+		"/Users/smuhangi/Public/esp-homepage/js/directives/shared/card-subject.js",
+		"/Users/smuhangi/Public/espresso-topnav/src/stylesheets/main.less",
+		"/Users/smuhangi/Public/espresso-topnav/src/stylesheets/mixins.less",
+		"/Users/smuhangi/Public/espresso-topnav/src/stylesheets/variables.less",
+		"/Users/smuhangi/Public/deuk-promo/dist/js/de-form-templates.js",
+		"/Users/smuhangi/Public/deuk-promo/less/de-uk-form-templates.less",
+		"/Users/smuhangi/Public/deuk-promo/hbs/egypt/schedule-page.hbs",
+		"/Users/smuhangi/Public/deuk-promo/hbs/egypt/schedule-dropdown.hbs",
+		"/Users/smuhangi/Public/deuk-promo/js/de-custom.js",
+		"/Users/smuhangi/Library/Application Support/Sublime Text 3/Packages/Origami/Origami.sublime-settings",
+		"/Users/smuhangi/Public/random.js",
+		"/Users/smuhangi/Dropbox/typescript-playground/test.js",
+		"/Users/smuhangi/Dropbox/typescript-playground/test.ts",
+		"/Users/smuhangi/Dropbox/typescript-playground/.eslintrc",
+		"/Users/smuhangi/Dropbox/ionic/test.js",
+		"/Users/smuhangi/Public/test.js",
+		"/Users/smuhangi/Dropbox/express-mongo/es6-learning/src/js/main.js",
+		"/Users/smuhangi/Public/deuk-promo/.eslintrc",
+		"/Users/smuhangi/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/Default (OSX).sublime-keymap",
+		"/Users/smuhangi/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/smuhangi/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/smuhangi/Public/deuk-promo/js/egypt/schedule-directives.js",
+		"/Users/smuhangi/Public/deuk-promo/dist/css/eha_login_panel.css",
+		"/Users/smuhangi/Dropbox/Notes/BBC Bitesize App roundtable.note",
+		"/Users/smuhangi/Public/deuk-promo/Gruntfile.js",
+		"/Users/smuhangi/Public/deuk-promo/dist/css/form-templates.css",
+		"/Users/smuhangi/Dropbox/angular-2/APM/app/products/product-list.component.js",
+		"/Users/smuhangi/Dropbox/angular-2/APM/app/app.component.js",
+		"/Users/smuhangi/Desktop/ekb-data.txt",
+		"/Users/smuhangi/Dropbox/typescript-playground/index.html",
+		"/Users/smuhangi/Public/deuk-promo/js/egypt/video-controllers.js",
+		"/Users/smuhangi/Public/deuk-promo/hbs/egypt/video-results.hbs",
+		"/Users/smuhangi/Dropbox/express-mongo/typescript-playground/test.ts",
+		"/Users/smuhangi/Dropbox/express-mongo/typescript-playground/index.html",
+		"/Users/smuhangi/Dropbox/express-mongo/typescript-playground/test.js.map",
+		"/Users/smuhangi/Dropbox/express-mongo/typescript-playground/tsconfig.json",
+		"/Users/smuhangi/Dropbox/express-mongo/typescript-playground/test.js",
+		"/Users/smuhangi/Library/Application Support/Sublime Text 3/Packages/User/TypeScript.sublime-settings",
+		"/Users/smuhangi/Dropbox/express-mongo/typescript-playground/jsconfig.json",
+		"/Users/smuhangi/Public/deuk-promo/less/de-egypt-video.less",
+		"/Users/smuhangi/Public/deuk-promo/less/de-lang-ar-sa.less",
+		"/Users/smuhangi/Public/deuk-promo/less/schedule-tv-banner.less",
+		"/Users/smuhangi/Public/deuk-promo/hbs/egypt/schedule-tabs.hbs",
+		"/Users/smuhangi/Public/deuk-promo/less/schedule-main.less",
+		"/Users/smuhangi/Public/deuk-promo/js/egypt/fixtures/news-api/3-jul-2016.js",
+		"/Users/smuhangi/Public/deuk-promo/js/egypt/fixtures/news-api/31-jul-2016.js",
+		"/Users/smuhangi/Public/deuk-promo/js/egypt/fixtures/news-api/7-aug-2016.js",
+		"/Users/smuhangi/Public/deuk-promo/js/egypt/fixtures/news-api/24-jul-2016.js",
+		"/Users/smuhangi/Public/deuk-promo/js/egypt/fixtures/news-api/10-jul-2016.js",
+		"/Users/smuhangi/Public/deuk-promo/js/egypt/fixtures/news-api/17-jul-2016.js",
+		"/Users/smuhangi/Public/deuk-promo/js/egypt/fixtures/news-api/14-aug-2016.js",
+		"/Users/smuhangi/Dropbox/ionic/photoNote2/www/js/app.js",
+		"/Users/smuhangi/Dropbox/ionic/photoNote2/www/index.html",
+		"/Users/smuhangi/Dropbox/ionic/photoNote2/package.json",
+		"/Users/smuhangi/Dropbox/express-mongo/es6-learning/index.html",
+		"/Users/smuhangi/Dropbox/express-mongo/es6-learning/output/js/main.js",
+		"/Users/smuhangi/Dropbox/ionic/photoNote2/.eslintrc",
+		"/Users/smuhangi/Dropbox/express-mongo/es6-learning/package.json",
+		"/Users/smuhangi/.bash_profile",
+		"/Users/smuhangi/.zshrc",
+		"/Users/smuhangi/Public/esp-homepage/Gruntfile.js",
+		"/Users/smuhangi/Public/esp-homepage/js/homepage-controllers.js",
+		"/Users/smuhangi/Public/esp-homepage/js/directives/homepage/challenge.js",
+		"/Users/smuhangi/Public/esp-homepage/js/directives/shared/card-breadcrumb.js",
+		"/Users/smuhangi/Public/esp-homepage/js/directives/shared/card-headline.js",
+		"/Users/smuhangi/Public/esp-homepage/js/homepage-app.js",
+		"/Users/smuhangi/Public/esp-homepage/js/directives/shared/de-footer.js",
+		"/Users/smuhangi/Public/esp-homepage/hbs/homepage/esp-homepage.hbs",
+		"/Users/smuhangi/Public/esp-homepage/js/directives/shared/header.js",
+		"/Users/smuhangi/Public/esp-homepage/js/directives/shared/card.js"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+			"/Users/smuhangi/Dropbox/angular-2/photonote",
+			"/Users/smuhangi/Public/esp-homepage/js",
+			"/Users/smuhangi/Public/esp-homepage",
+			"/Users/smuhangi/Public/esp-homepage/js",
+			"/Users/smuhangi/Public/deuk-promo"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"styles",
+			"sat",
+			"map",
+			"bs-config",
+			"timeou",
+			"triangle_wh",
+			"copy",
+			"activ",
+			"inputs",
+			"submit",
+			"sub",
+			"window.location.h",
+			"en-gb",
+			"whit",
+			"regis",
+			"hbs/esp",
+			"Keystage",
+			"use strict",
+			"Homepage",
+			"main",
+			"coming soon!",
+			"gamezone",
+			"ekb",
+			"title",
+			"window"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/smuhangi/Dropbox/angular-2/angular2-starter"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								194,
+								194
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "JavaScript/JavaScript",
+								"enabled": false,
+								"last_updated": 1473973394.75
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/Sunrise (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 568.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/app/app.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								303,
+								303
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".ts",
+								"current_syntax": "TypeScript/TypeScript",
+								"enabled": false,
+								"last_updated": 1473973394.75
+							},
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/main.ts",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".ts",
+								"current_syntax": "TypeScript/TypeScript",
+								"enabled": false,
+								"last_updated": 1473973394.75
+							},
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.errorlist":
+	{
+		"height": 152.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"web",
+				"webpack.config.js"
+			],
+			[
+				"codej",
+				"~/Dropbox/Notes/codejam.note"
+			],
+			[
+				"code",
+				"~/Dropbox/Notes/codejam.note"
+			],
+			[
+				"app.com",
+				"src/app/app.component.html"
+			],
+			[
+				"",
+				"app/products/product-list.component.css"
+			],
+			[
+				"product",
+				"app/products/product-list.component.ts"
+			],
+			[
+				"app",
+				"apm.sublime-project"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"product-list.com",
+				"angular-2/APM/app/products/product-list.component.html"
+			],
+			[
+				"schedule-tv",
+				"deuk-promo/less/schedule-tv-banner.less"
+			],
+			[
+				"home",
+				"esp-homepage/js/homepage-app.js"
+			],
+			[
+				"video-contro",
+				"deuk-promo/js/egypt/video-controllers.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Public/deuk-promo/deukpromo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 297.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
