@@ -1,9 +1,10 @@
-# Angular2 and Webpack quick project starter
+:wq:i# Angular2 and Webpack quick project starter
 
 ## Description
 
 ```sh
-A quick starter project for Angular2 and Webpack
+* A quick starter project for Angular2 and Webpack
+* Materialize backed in
 ```
 
 ## Usage
